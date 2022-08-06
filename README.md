@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Flutter / Xamarin / anything oriented object**
 
-- 📫 How to reach me **mohamedselim.zaalouni@esprit.tn**
+- 📫 How to reach me **s.zaalouni@archimed.fr**
 
 - 📄 Know about my experiences [https://flowcv.me/slouma](https://flowcv.me/slouma)
 
